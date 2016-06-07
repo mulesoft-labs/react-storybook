@@ -47,8 +47,8 @@
     "qs": "^6.1.0"
   },
   "peerDependencies": {
-    "react": "^0.14.7 || ^15.0.0",
-    "react-dom": "^0.14.7 || ^15.0.0"
+    "react": "^0.14.2 || ^15.0.0",
+    "react-dom": "^0.14.2 || ^15.0.0"
   },
   "devDependencies": {
     "@kadira/react-split-pane": "^1.4.0",
